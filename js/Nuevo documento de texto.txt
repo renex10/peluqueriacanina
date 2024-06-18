@@ -1,0 +1,201 @@
+
+       <footer class="mainfooter" role="contentinfo">
+  <div class="footer-middle">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-3 col-sm-6">
+        <!--Column1-->
+        <div class="footer-pad">
+          <h4>Heading 1</h4>
+          <ul class="list-unstyled">
+            <li><a href="#"></a></li>
+            <li><a href="#">Payment Center</a></li>
+            <li><a href="#">Contact Directory</a></li>
+            <li><a href="#">Forms</a></li>
+            <li><a href="#">News and Updates</a></li>
+            <li><a href="#">FAQs</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-md-3 col-sm-6">
+        <!--Column1-->
+        <div class="footer-pad">
+          <h4>Heading 2</h4>
+          <ul class="list-unstyled">
+            <li><a href="#">Website Tutorial</a></li>
+            <li><a href="#">Accessibility</a></li>
+            <li><a href="#">Disclaimer</a></li>
+            <li><a href="#">Privacy Policy</a></li>
+            <li><a href="#">FAQs</a></li>
+            <li><a href="#">Webmaster</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-md-3 col-sm-6">
+        <!--Column1-->
+        <div class="footer-pad">
+          <h4>Heading 3</h4>
+          <ul class="list-unstyled">
+            <li><a href="#">Parks and Recreation</a></li>
+            <li><a href="#">Public Works</a></li>
+            <li><a href="#">Police Department</a></li>
+            <li><a href="#">Fire</a></li>
+            <li><a href="#">Mayor and City Council</a></li>
+            <li>
+              <a href="#"></a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-md-3">
+        <h4>Follow Us</h4>
+            <ul class="social-network social-circle">
+             <li><a href="#" class="icoFacebook" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+             <li><a href="#" class="icoLinkedin" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
+            </ul>       
+    </div>
+    </div>
+  <div class="row">
+    <div class="col-md-12 copy">
+      <p class="text-center">&copy; Copyright 2018 - Company Name.  All rights reserved.</p>
+    </div>
+  </div>
+
+
+  </div>
+  </div>
+</footer>
+
+
+
+
+
+
+
+
+
+
+
+
+ <div class="container">
+    <div class="page-header">
+        <h1 id="timeline text-center">Timeline</h1>
+    </div>
+    <ul class="timeline">
+        <li>
+          <div class="timeline-badge"><i class="fa-solid fa-wrench"></i></div>
+          <div class="timeline-panel animated slideInLeft">
+            <div class="timeline-heading">
+              <h4 class="timeline-title">Mantención de fichas.</h4>
+              <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i> 11 hours ago via Something</small></p>
+            </div>
+            <div class="timeline-body">
+              <p>Capacidad del sistema para crear y gestionar fichas individuales, para cada
+mascota. Incluye posibilidad de asociar cada ficha con los datos
+correspondientes de mascota y cliente, junto con ingresar fecha de
+registro, peso de mascota en cada una de sus visitas a la peluquería,
+observaciones y el cálculo de un monto total, según los servicios. Además,
+el sistema debe permitir consultar, actualización y eliminación de datos de
+manera adecuada. Prioridad Must.</p>
+            </div>
+          </div>
+        </li>
+        <li class="timeline-inverted">
+          <div class="timeline-badge warning"><i class="fa-solid fa-users-gear"></i></div>
+          <div class="timeline-panel animated slideInRight">
+            <div class="timeline-heading">
+              <h4 class="timeline-title">Mantención de tabla Servicios de ficha.</h4>
+            </div>
+            <div class="timeline-body">
+              <p>Capacidad del sistema de registrar y gestionar la relación entre los
+servicios brindados por la peluquería, la ficha de cada mascota y el
+empleado que realiza el servicio específico. Además, el sistema debe
+permitir consultar, actualizar y eliminar datos de forma eficiente. Prioridad
+Should.</p>
+             
+            </div>
+          </div>
+        </li>
+        <li>
+          <div class="timeline-badge danger"><i class="fa-solid fa-rocket"></i></div>
+          <div class="timeline-panel">
+            <div class="timeline-heading">
+              <h4 class="timeline-title">Mantención de productos utilizados en los servicios.</h4>
+            </div>
+            <div class="timeline-body">
+              <p>Capacidad de poder ingresar y gestionar productos usados en la
+prestación de servicios por parte de la peluquería. Incluye la posibilidad de
+ingresar nombre, stock, costo unitario.</p>
+            </div>
+          </div>
+        </li>
+        <li class="timeline-inverted">
+          <div class="timeline-panel">
+            <div class="timeline-heading">
+              <h4 class="timeline-title">Mantención de tabla detalles de productos.</h4>
+            </div>
+            <div class="timeline-body">
+              <p>Capacidad del sistema para registrar y gestionar detalles específicos de los
+productos usados asociados a sus respectivos servicios. Además, el
+sistema debe permitir la realización de operaciones de consulta,
+actualización y eliminación de registros de manera adecuada. Prioridad
+Could.</p>
+            </div>
+          </div>
+        </li>
+        <li>
+          <div class="timeline-badge info"><i class="fa-solid fa-pen"></i></div>
+          <div class="timeline-panel">
+            <div class="timeline-heading">
+              <h4 class="timeline-title">Mantención de información de los empleados.</h4>
+            </div>
+            <div class="timeline-body">
+              <p>Capacidad del sistema para registrar y gestionar información sobre los
+empleados que trabajan o han trabajado en la peluquería. Incluye
+posibilidad de ingresar datos como nombre, apellido paterno, apellido
+materno, rut, email, dirección y comuna de residencia.</p>
+              <hr>
+              <div class="btn-group">
+                <button type="button" class="btn btn-primary btn-sm dropdown-toggle" data-toggle="dropdown">
+                  <i class="glyphicon glyphicon-cog"></i> <span class="caret"></span>
+                </button>
+                <ul class="dropdown-menu" role="menu">
+                  <li><a href="#">Action</a></li>
+                  <li><a href="#">Another action</a></li>
+                  <li><a href="#">Something else here</a></li>
+                  <li class="divider"></li>
+                  <li><a href="#">Separated link</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </li>
+        <li>
+          <div class="timeline-panel">
+            <div class="timeline-heading">
+              <h4 class="timeline-title">Mantención de cargos dentro de la peluquería.</h4>
+            </div>
+            <div class="timeline-body">
+              <p>Capacidad del sistema para controlar y gestionar diferentes cargos dentro
+de la peluquería. Debe poder incluir el nombre de cada cargo y poder ser
+asociado a cada empleado según corresponda</p>
+            </div>
+          </div>
+        </li>
+        <li class="timeline-inverted">
+          <div class="timeline-badge success"><i class="fa-solid fa-users"></i></div>
+          <div class="timeline-panel">
+            <div class="timeline-heading">
+              <h4 class="timeline-title">Mantención de Privilegios según usuario.</h4>
+            </div>
+            <div class="timeline-body">
+              <p>Capacidad del sistema para controlar y gestionar diferentes privilegios de
+acceso según el usuario, así como revocarlos de manera adecuada.
+Además, debe permitir hacer consultas, actualizaciones y eliminaciones de
+empleados de forma eficiente. Prioridad Could</p>
+            </div>
+          </div>
+        </li>
+    </ul>
+</div>
+
